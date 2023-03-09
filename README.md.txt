@@ -7,4 +7,4 @@ This repository is built step by step in the tutorial.
 just hello
 
 It now includes steps for GitHub.
-Alisha Nicole B. Salarda
+Millanfie Clyde Cellan
